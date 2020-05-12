@@ -1,2 +1,2 @@
-# janinediogo.github.io
+# http://janinediogo.github.io
 Minha página
