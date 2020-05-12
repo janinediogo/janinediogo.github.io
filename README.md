@@ -1,2 +1,2 @@
-# http://janinediogo.github.io/4ano
+# http://janinediogo.github.io
 Minha página
